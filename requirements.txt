@@ -1,0 +1,7 @@
+dawdreamer
+matchering
+fastapi[all]==0.95.2
+uvicorn[standard]==0.22.0
+mido
+numpy
+basic-pitch

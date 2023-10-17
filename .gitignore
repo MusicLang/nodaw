@@ -1,0 +1,8 @@
+data/
+venv/
+.idea
+.DS_Store
+msd-musicnn-1.json
+msd-musicnn-1.pb
+onsets_complex.mp3
+onsets_hfc.wav
